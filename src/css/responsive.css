@@ -1,0 +1,16 @@
+@media (max-width: 767.98px) { 
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao{
+        margin-top: 5px;
+    }
+}
+
+@media (min-width: 992px) { 
+    .descricao{
+        width: 70%;
+    }
+ }
